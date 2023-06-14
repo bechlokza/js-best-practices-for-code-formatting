@@ -1,0 +1,22 @@
+{
+  "name": "js-best-practices-for-code-formatting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bechlokza/js-best-practices-for-code-formatting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bechlokza/js-best-practices-for-code-formatting/issues"
+  },
+  "homepage": "https://github.com/bechlokza/js-best-practices-for-code-formatting#readme",
+  "dependencies": {
+    "eslint": "^8.42.0"
+  }
+}
