@@ -6,5 +6,6 @@
 
 'use strict';
 
+// Variable
 const city = 'Chicago';
 console.log(city);
